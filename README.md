@@ -23,10 +23,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - PHP Manager for IIS
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Rewrite Module
+- PHP 7.3.8
+- VC redist
+- MySQL 5.5.62
 
 <h2>Installation Steps</h2>
 
