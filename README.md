@@ -30,6 +30,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 Above is the box to install PHP Manager. Follow the steps to install. Click next to continue, then click agree on the next page to install PHP Manager.  
+
+![image](https://github.com/MarcusPierson803/osticket-prereqs/assets/124591430/00de6270-581f-4e97-8757-df0063e3e1a3)
+
+Above is the Rewrite Module box to install. First click agree to proceed to install. 
+
+
+Next create a directory C:\PHP. Then download PHP 7.3.8 and unzip the contents into C:\PHP.
+
 </p>
 <br />
 
@@ -42,7 +50,6 @@ Above is the box to install PHP Manager. Follow the steps to install. Click next
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
