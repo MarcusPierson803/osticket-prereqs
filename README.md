@@ -36,6 +36,8 @@ Above is the box to install PHP Manager. Follow the steps to install. Click next
 Above is the Rewrite Module box to install. First click agree to proceed to install. 
 
 
+
+
 Next create a directory C:\PHP. Then download PHP 7.3.8 and unzip the contents into C:\PHP.
 
 </p>
