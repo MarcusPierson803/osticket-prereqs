@@ -43,6 +43,8 @@ Next create a directory C:\PHP. Then download PHP 7.3.8 and unzip the contents i
 
 ![image](https://github.com/MarcusPierson803/osticket-prereqs/assets/124591430/84dd6cf4-a810-487e-8361-5d9852de4940)
 
+Above is the box to install VC redist. Check the box first then install. 
+
 
 </p>
 <br />
