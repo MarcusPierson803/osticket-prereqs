@@ -46,6 +46,12 @@ Next create a directory C:\PHP. Then download PHP 7.3.8 and unzip the contents i
 Above is the box to install VC redist. Check the box first then install. 
 
 
+![image](https://github.com/MarcusPierson803/osticket-prereqs/assets/124591430/e587200e-9bda-45f4-906b-7f291cb17a38)
+
+Lastly is the box to install MySQL 5.5.62. 
+
+
+
 </p>
 <br />
 
