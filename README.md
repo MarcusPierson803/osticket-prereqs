@@ -48,7 +48,11 @@ Above is the box to install VC redist. Check the box first then install.
 
 ![image](https://github.com/MarcusPierson803/osticket-prereqs/assets/124591430/e587200e-9bda-45f4-906b-7f291cb17a38)
 
-Lastly is the box to install MySQL 5.5.62. 
+Lastly is the box to install MySQL 5.5.62. Accept the agreement, then we will do a typical setup for the installation. 
+
+
+
+Above are gthe steps to install 
 
 
 
