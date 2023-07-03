@@ -40,6 +40,10 @@ Above is the Rewrite Module box to install. First click agree to proceed to inst
 
 Next create a directory C:\PHP. Then download PHP 7.3.8 and unzip the contents into C:\PHP.
 
+
+![image](https://github.com/MarcusPierson803/osticket-prereqs/assets/124591430/84dd6cf4-a810-487e-8361-5d9852de4940)
+
+
 </p>
 <br />
 
